@@ -1,0 +1,377 @@
+body {
+    margin: 0;
+    color: #e9eef2;
+}
+.intro {
+    overflow: hidden;
+    width: 100%;
+    height: 600px;
+    background: url(../images/Rectangle%201.png) center no-repeat;
+    background-size: cover;
+}
+
+.text1{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    position: absolute;
+    left: 200px;
+    top: 45px;
+    font-size: 50px;
+}
+
+.nav{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    vertical-align: top;
+    position: absolute;
+    top: 55px;
+    right: 200px;
+}
+
+.nav__links{
+    margin: 0 10px;
+    position: relative;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav__links:hover{
+    color: #ffe87d;
+}
+
+.text2{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    text-align: center;
+    position: relative;
+    top: 220px;
+    margin: 0;
+}
+
+.text3{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    text-align: center;
+    position: relative;
+    top: 240px;
+    margin: 0;
+}
+
+.button1{
+    position: absolute;
+    top: 380px;
+    left: 50%;
+    width: 250px;
+    height: 60px;
+    margin: 0 0 0 -125px;
+    background: #a4b9be;
+}
+
+.button1:hover{
+    -webkit-transition: all 0 linear;
+    -moz-transition: all 0 linear;
+    background: #707d80;
+}
+
+.buttonin1{
+    position: relative;
+    margin-top: 15px;
+}
+
+.buttonlink{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    text-align: center;
+    display: block;
+    width: 250px;
+    height: 60px;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+}
+
+.block1{
+    overflow: hidden;
+    height: 500px;
+    width: 100%;
+    background: #fcfcfc;
+}
+
+.text4{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #535a5e;
+    position: relative;
+    top: 50px;
+    font-size: 38px;
+    text-align: center;
+}
+
+.text5{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    color: #9fa4a7;
+    position: relative;
+    text-align: center;
+    top: 40px;
+}
+
+.pen{
+    position: relative;
+    top: 80px;
+    left: 50%;
+    width: 32px;
+    height: 32px;
+    margin-left: -16px;
+}
+
+.block2{
+    overflow: hidden;
+    height: 700px;
+    width: 100%;
+    background: #a4b9be;
+}
+
+.text6{
+    position: relative;
+    top: 60px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.text7{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    position: relative;
+    top: 40px;
+    text-align: center;
+    color: ffffff;
+}
+
+.backgrounde{
+    background: url(../images/BG.png) center no-repeat;
+    width: 100%;
+    height: 700px;
+}
+
+.previous{
+
+}
+
+.next{
+
+}
+
+.block3{
+    overflow: hidden;
+    height: 850px;
+    width: 100%;
+    background: #fcfcfc;
+}
+
+.text8{
+    position: relative;
+    top: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #535a5e;
+    text-align: center;
+    font-size: 30px;
+}
+
+.text9{
+    position: relative;
+    top: 40px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #98a0a5;
+    font-size: 21px;
+    text-align: center;
+}
+
+.plans{
+    position: relative;
+    width: 930px;
+    height: 450px;
+    left: 50%;
+    margin-left: -465px;
+    top: 60px;
+}
+
+.free{
+    position: absolute;
+    width: 290px;
+    height: 450px;
+}
+
+.professional{
+    position: absolute;
+    width: 290px;
+    height: 450px;
+    left: 320px;
+}
+
+.enterprise{
+    position: absolute;
+    width: 290px;
+    height: 450px;
+    right: 0;
+}
+
+
+.uppercase1{
+    overflow: hidden;
+    height: 80px;
+    width: 290px;
+    background: #535a5e;
+}
+
+.midcase1{
+    overflow: hidden;
+    height: 290px;
+    width: 290px;
+    background: #e9eef2;
+}
+
+.botcase1{
+    overflow: hidden;
+    height: 60px;
+    width: 290px;
+    background: #535a5e;
+    position: relative;
+    top: 20px;
+}
+
+.uppercase2{
+    overflow: hidden;
+    height: 80px;
+    width: 290px;
+    background: #58ad52;
+}
+
+.midcase2{
+    overflow: hidden;
+    height: 290px;
+    width: 290px;
+    background: #e9eef2;
+}
+
+.botcase2{
+    overflow: hidden;
+    height: 60px;
+    width: 290px;
+    background: #58ad52;
+    position: relative;
+    top: 20px;
+}
+
+.uppercase3{
+    overflow: hidden;
+    height: 80px;
+    width: 290px;
+    background: #53a1ad;
+}
+
+.midcase3{
+    overflow: hidden;
+    height: 290px;
+    width: 290px;
+    background: #e9eef2;
+}
+
+.botcase3{
+    overflow: hidden;
+    height: 60px;
+    width: 290px;
+    background: #53a1ad;
+    position: relative;
+    top: 20px;
+}
+
+.Forever_free{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    bottom: 10px;
+}
+
+.description1{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: #535a5e;
+    font-size: 21px;
+    position: relative;
+}
+
+.description2{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #535a5e;
+    font-size: 21px;
+    position: relative;
+    line-height: 65px;
+}
+
+.sign_buy{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    position: absolute;
+    text-align: center;
+    font-size: 18px;
+    width: 290px;
+    height: 60px;
+    display: block;
+    text-decoration: none;
+    color: #e9eef2;
+    height: 100%;
+}
+
+.sign_buy1:hover{
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    background: #383c3f;
+}
+
+.sign_buy2:hover{
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    background: #3a7236;
+}
+
+.sign_buy3:hover{
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    background: #386c74;
+}
+
+.buttonin2{
+    position: relative;
+    margin-top: 15px;
+}
+
+.text10{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    position: relative;
+    color: #98a0a5;
+    text-align: center;
+    top: 100px;
+}
